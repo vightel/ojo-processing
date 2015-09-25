@@ -1,0 +1,17 @@
+.DS_Store
+*.log
+envs.docker.sh
+data/ant_r/d02/*
+data/geos5/d02/*
+data/geos5/2015/*
+data/gfms/*
+data/gpm/d02/*
+data/landslide_nowcast/d02/*
+data/modis_af/2015/*
+data/modis_burnedareas/*
+data/quakes/d02/*
+data/trmm/3B42RT/*
+data/trmm/2015*
+data/trmm/d02/2015*
+data/vhi/2015/*
+python/*.pyc

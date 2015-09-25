@@ -1,0 +1,28 @@
+export WORKSHOP_DIR=/home/workshop/ojo-processing
+
+export AWS_ACCESSKEYID=
+export AWS_SECRETACCESSKEY=
+export AWS_REGION=
+
+export DBHOST=
+export DBNAME=
+export DBOWNER=
+export DBPORT=
+export PGPASSWORD=
+export DATABASE_URL=
+
+export FACEBOOK_APP_SECRET=
+export FACEBOOK_APP_ID=
+export FACEBOOK_PROFILE_ID=
+
+export TWITTER_SITE=
+export TWITTER_SITE_ID=
+export TWITTER_CREATOR=
+export TWITTER_CREATOR_ID=
+export TWITTER_DOMAIN=
+
+export COOKIEHASH=
+
+export MAPBOX_PUBLIC_TOKEN=
+export MAPBOX_SECRET_TOKEN=
+

@@ -1,0 +1,13 @@
+data/ant_r/d02/*
+data/geos5/d02/*
+data/gfms/d02/*
+data/gpm/d02/*
+data/landslide_nowcast/d02/*
+data/modis_af/d02/*
+data/modis_burnedareas/d02/*
+data/quakes/d02/*
+data/trmm/3B42RT/*
+data/trmm/2015*
+data/trmm/d02/2015*
+data/vhi/2015*
+
