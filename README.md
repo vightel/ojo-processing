@@ -88,7 +88,7 @@ $ cd ojo-processing
 $ export WORKSHOP_DIR=~/Development/workshop/ojo-processing
 ```
 
-* Create an Heroku Instance and a small Postgres database.  We will use an enhanced builpack used for later and remember your heroku app name
+* Create an Heroku Instance and a small Postgres database.  We will use an enhanced buildpack used for later and remember your heroku app name
 
 ```bash
 $ cp buildpacks .buildpacks
