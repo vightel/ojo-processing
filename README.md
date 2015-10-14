@@ -81,10 +81,11 @@ limitations under the License.
 Create a development directory for the workshop and download the code repository
 
 ```bash
-$ mkdir ~/Development/worshop
+$ mkdir -p ~/Development/workshop
+$ cd ~/Development/workshop
 $ git clone https://github.com/vightel/ojo-processing.git
 $ cd ojo-processing
-$ export WORKSHOP_DIR=~/Development/worshop/ojo-processing
+$ export WORKSHOP_DIR=~/Development/workshop/ojo-processing
 ```
 
 * Create an Heroku Instance and a small Postgres database.  We will use an enhanced builpack used for later and remember your heroku app name
